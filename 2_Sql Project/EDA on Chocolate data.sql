@@ -1,4 +1,13 @@
 
+/*
+USING Chocolates-data
+    Open MySQL Workbench
+    Click on the “server administration” tab 
+    Click on “Data Import/Restore”
+    Select the option “Import from self-contained file”
+    Specify the path of the downloaded chocolates-data.sql file
+    Start import
+*/
 
 -- INTERMEDIATE PROBLEMS:
 
