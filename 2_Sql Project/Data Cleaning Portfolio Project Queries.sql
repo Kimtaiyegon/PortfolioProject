@@ -1,7 +1,7 @@
 /*
 
 Cleaning Data in SQL Queries
-
+using NashvilleHousing data.xlsx
 */
 
 
